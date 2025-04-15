@@ -1,0 +1,144 @@
+[[libdmg_hfsplus]]
+arch = "aarch64"
+git-tree-sha1 = "e1ea91a1a44f1d8f15d3e04cd3986dd5c0fb806a"
+os = "macos"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "53371fbc9a49ddd2108ac63d8a0065b17b21c3bc1699466c48fddb855aa71a6f"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.aarch64-apple-darwin.tar.gz"
+[[libdmg_hfsplus]]
+arch = "aarch64"
+git-tree-sha1 = "2fd656839ff5c26f476e9acef8e724747eb27f30"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "f76e231df2bddd7fcd1cfa544c765e367fcdfd57c66bdc67519c0dc912ded92c"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.aarch64-linux-gnu.tar.gz"
+[[libdmg_hfsplus]]
+arch = "aarch64"
+git-tree-sha1 = "837f5150899249153588f8bed9ba673dfb913fba"
+libc = "musl"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "2ff5398533ae339a4d9d9f1459d64690df9cea3fef1bb05a9e12b9523bbec34c"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.aarch64-linux-musl.tar.gz"
+[[libdmg_hfsplus]]
+arch = "aarch64"
+git-tree-sha1 = "53198adbabcfee1ddb4d35974032abcf4ccc2ef1"
+os = "freebsd"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "9463811d91fbea47f62afaf897611d81f34cfce1e37f5bd1e7a5716ceeede5b8"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.aarch64-unknown-freebsd.tar.gz"
+[[libdmg_hfsplus]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6a28165557293585a1709ea6fb5c798599033a55"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "460161e11658c433a9a0c818e237bb2030acfb14a8030e269290de3ad033a543"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.armv6l-linux-gnueabihf.tar.gz"
+[[libdmg_hfsplus]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "84e0956b14df2c74daccf0df798a7281d060cc41"
+libc = "musl"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "2b1b4a1e8f517ffdae327caff16f95a3cdad2246d2e1685abc5d44332630f571"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.armv6l-linux-musleabihf.tar.gz"
+[[libdmg_hfsplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a1db30fe49dab7fa365d6116e9f964c355b98936"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "c7f727fb1592c3b1277f718ea14a21381e5ac77f7565a78be63c2b88e80cd81e"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.armv7l-linux-gnueabihf.tar.gz"
+[[libdmg_hfsplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "06291097762c9a22c752da6fc91289e222336664"
+libc = "musl"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "032c65f027918a353d15fd03346f957ff339b5a8638adff0142067fba95e7efb"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.armv7l-linux-musleabihf.tar.gz"
+[[libdmg_hfsplus]]
+arch = "i686"
+git-tree-sha1 = "9a7bfc5ce4822e048b357bf71e38b7d20f6fffa9"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "075c1e88a8aef72b443c313bb1813f6ac018e8fde4f55d8279e833537e4f9fc9"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.i686-linux-gnu.tar.gz"
+[[libdmg_hfsplus]]
+arch = "i686"
+git-tree-sha1 = "5687b18dca3be63e5cc46435319fded65226a6c9"
+libc = "musl"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "818d8a3f43b27cd6ce08db796342697bcb78f79a8c6a9be07d55a5c6012de7b4"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.i686-linux-musl.tar.gz"
+[[libdmg_hfsplus]]
+arch = "powerpc64le"
+git-tree-sha1 = "0dc9d563607a3b5fdf2279908eeabef64bb94f69"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "b6d65dd82ceced3cbd5d69a7e1f472e0528ee71f9e1e085397ff6689572ec4c4"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.powerpc64le-linux-gnu.tar.gz"
+[[libdmg_hfsplus]]
+arch = "riscv64"
+git-tree-sha1 = "c024e962a96bcd2dd3bdd3bb3993ccdbde8125e7"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "fd863f23a2331a6918db49aab68d902067e4d30ac6678eefa4c831b35f54e91c"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.riscv64-linux-gnu.tar.gz"
+[[libdmg_hfsplus]]
+arch = "x86_64"
+git-tree-sha1 = "1bbfd81ff0e0a4f84866c33ad837d4d345c533ac"
+os = "macos"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "6ac945134683f48b5b21f1901d09aa9df7087834d855bbc26e51e02e589e4c31"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.x86_64-apple-darwin.tar.gz"
+[[libdmg_hfsplus]]
+arch = "x86_64"
+git-tree-sha1 = "e6f43b6ef8646286c1ebebadebdce808479b13fb"
+libc = "glibc"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "28ed2d8c91e5aa1fec7448b38419430a3c6fed3fa2bf5f7b3a3494cc9ed91dd7"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.x86_64-linux-gnu.tar.gz"
+[[libdmg_hfsplus]]
+arch = "x86_64"
+git-tree-sha1 = "3455f1cb838cb0a84f953f08e54708e092d235c6"
+libc = "musl"
+os = "linux"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "a16950382f0722656b9a5c95eb2ae8fbfe1219885db8e9c48b1070badb5a6b32"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.x86_64-linux-musl.tar.gz"
+[[libdmg_hfsplus]]
+arch = "x86_64"
+git-tree-sha1 = "95afbb783c16419e968d8088a8824ace5ebd0e77"
+os = "freebsd"
+
+    [[libdmg_hfsplus.download]]
+    sha256 = "28c942aee541b195565f0a0d160685ea256e62e1788bbff3762c7dc5c0816cf6"
+    url = "https://github.com/JuliaBinaryWrappers/libdmg_hfsplus_jll.jl/releases/download/libdmg_hfsplus-v0.5.0+0/libdmg_hfsplus.v0.5.0.x86_64-unknown-freebsd.tar.gz"
